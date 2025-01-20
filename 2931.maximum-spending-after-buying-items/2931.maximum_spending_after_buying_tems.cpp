@@ -14,7 +14,7 @@ class Solution{
             }
         }
 
-        // Ordenando em ordem cresultadocente 
+        // Ordenando em ordem crescente
         sort(combina.begin(), combina.end());
 
         //calculando 
@@ -22,7 +22,7 @@ class Solution{
         int totalItens = itens * lojas;
 
         for (int i = 1; i <= totalItens; i++) {
-            resultado += static_cast<ll>(i) * combina[i - 1];
+            resultado += static_cast<long long>(i) * combina[i - 1];
         }
 
         return resultado;

@@ -15,7 +15,7 @@ public:
        
         for (int i = criancas - 2; i >= 0; --i) {// pecorre no sentido contrario
             if (ratings[i] > ratings[i + 1]) {
-                q//Garante que se uma criança tem uma classificação maior que o vizinho da direita, ela terá mais doces que ele.
+                //Garante que se uma criança tem uma classificação maior que o vizinho da direita, ela terá mais doces que ele.
                 doces[i] = max(doces[i], doces[i + 1] + 1); 
             }
         }

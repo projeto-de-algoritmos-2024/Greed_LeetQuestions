@@ -12,8 +12,18 @@
 ## Sobre 
 Este repositório tem como objetivo apresentar as soluções das questões selecionadas, com o intuito de demonstrar os conhecimentos adquiridos durante as aulas.
 
+Problemas
+| Código | Nome | Dificuldade | Vídeo |
+| ------------------ | ---------------- | ----------- | ------------------ |
+| 135 | [Candy](https://leetcode.com/problems/candy/description/) | Difícil | [clique aqui](https://www.youtube.com/watch?v=75yIR1Ugrsk) |
+| 2931 | [Maximum Spending After Buying Iteams](https://leetcode.com/problems/maximum-spending-after-buying-items/description/) | Difícil | [clique aqui](https://youtu.be/p3HlxcQ2Mtg) |
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Candy
+<div align="center"><img src="/135.Candy/135.Candy.png" height=auto width=auto></div>
+
+Maximum Spending After Buying Items
+<div align="center"><img src="/2931.maximum-spending-after-buying-items/2931.maximum-spending-after-buying-items.png" height=auto width=auto></div>
 
 ## Instalação 
 **Linguagem**: c++<br>
