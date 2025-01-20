@@ -17,6 +17,9 @@ Problemas
 | ------------------ | ---------------- | ----------- | ------------------ |
 | 135 | [Candy](https://leetcode.com/problems/candy/description/) | Difícil | [clique aqui](https://www.youtube.com/watch?v=75yIR1Ugrsk) |
 | 2931 | [Maximum Spending After Buying Iteams](https://leetcode.com/problems/maximum-spending-after-buying-items/description/) | Difícil | [clique aqui](https://youtu.be/p3HlxcQ2Mtg) |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/description/) | Medium | [clique aqui](https://youtu.be/iOfzaGXlB7w) |
+| 630 | [Couse Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | Dificil | [clique aqui](https://youtu.be/XBDDTUG47bI) |
+
 
 ## Screenshots
 Candy
@@ -25,9 +28,14 @@ Candy
 Maximum Spending After Buying Items
 <div align="center"><img src="/2931.maximum-spending-after-buying-items/2931.maximum-spending-after-buying-items.png" height=auto width=auto></div>
 
+Car Pooling
+<div align="center"><img src="/1094. Car Pooling/1094. Car_Pooling.png" height=auto width=auto></div>
+
+Couse Schedule III
+<div align="center"><img src="/630. Course Schedule III/630. Course Schedule III.png" height=auto width=auto></div>
+
 ## Instalação 
 **Linguagem**: c++<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 # 1 - Clone o repositório
